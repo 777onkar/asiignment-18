@@ -10,3 +10,18 @@
     font-family: cursive;
 
 }
+
+.second-text{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hotel{
+    margin: 20px;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+}
