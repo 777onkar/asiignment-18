@@ -25,3 +25,8 @@
     border-radius: 10px;
     background-color: #fff;
 }
+
+.submit{
+    border-style: double;
+    border-radius: 20px;
+}

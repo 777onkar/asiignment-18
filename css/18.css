@@ -1,0 +1,11 @@
+.page{
+    background-color:#f8f5f2;
+}
+
+.heading-2{
+    background-color: #90b4ce;
+    height: 65px;
+    line-height: 65px;
+    border-radius: 45px;
+    font-family: cursive;
+}
