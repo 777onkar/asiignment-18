@@ -9,3 +9,42 @@
     border-radius: 45px;
     font-family: cursive;
 }
+
+.hotel{
+    background-color: bisque;
+    text-align: center;
+    font-size: 24px;
+    height: 1150px;
+    width: 484px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(130, 16, 179, 0.2);
+}
+
+.room{
+    text-align: center;
+    font-size: 20px;
+}
+
+.mid{
+    padding: bottom 1px;
+}
+
+.buy{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: orangered;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 10px  #90b4ce;
+}
+
+.buy:hover{
+    background-color: yellow;
+    transition: 2s;
+    box-shadow: 2px 2px 5px 10px blueviolet;
+}
